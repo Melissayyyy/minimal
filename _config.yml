@@ -1,9 +1,9 @@
 title: CHENYUAN YANG
 logo: /assets/img/photo.jpg
-description: 
-    "Location: Shanghai, China
-    Email: 22307130511@m.fudan.edu.cn
-    My research interests include: Natural Language Processing, Large Language Models"
+description: |
+    Location: Shanghai, China  
+    Email: 22307130511@m.fudan.edu.cn  
+    My research interests include: Natural Language Processing, Large Language Models
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
